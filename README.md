@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThorRafnar
-- 👀 I’m interested in Full Stack web development, .NET Core, Entity Framework, RESTful APIs, GraphQL, Graph Theory, Security.
-- 🌱 I’m currently learning Vue, Microservices, MQs, Drupal, MongoDB.
+- 👀 I’m interested in Full Stack web development, .NET Core, Entity Framework, RESTful APIs, GraphQL, Security.
+- 🌱 I’m currently learning Slurm and High Performance Computing.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
